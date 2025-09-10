@@ -1,6 +1,6 @@
 # 🖥️ System Monitor
 
-![System Monitor](./assets/example1.png)(200x200)
+![System Monitor](./assets/example1.png)
 
 Powerful and elegant real-time monitoring of the Linux system with a beautiful command line interface. Get complete information about the status of your system in one place
 ---
@@ -32,7 +32,7 @@ Powerful and elegant real-time monitoring of the Linux system with a beautiful c
 ### Start the monitor
 **./sys.sh**
 
-![Features Demo](./assets/.gif1.gif) 
+![Features Demo](/assets/gif1.gif) 
 
 
 
