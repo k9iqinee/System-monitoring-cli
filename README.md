@@ -24,7 +24,7 @@ Powerful and elegant real-time monitoring of the Linux system with a beautiful c
 **git clone** https://github.com/k9iqinee/System-monitoring-cli
 
 ### Go to the project directory
-**cd Sys-widget**
+**cd System-monitoring-cli**
 
 ### Grant execution rights
 **chmod +x sys.sh**
