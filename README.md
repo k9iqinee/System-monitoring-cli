@@ -21,13 +21,13 @@ Powerful and elegant real-time monitoring of the Linux system with a beautiful c
 **Installation is simple and fast**
 
 ### Clone the repository
-**git clone** https://github.com/k9iqinee/System_monitoring.git
+**git clone** https://github.com/k9iqinee/System-monitoring-cli
 
 ### Go to the project directory
-**cd system-monitor-git**
+**cd Sys-widget**
 
 ### Grant execution rights
-**chmod +x sysmonitor.sh**
+**chmod +x sys.sh**
 
 ### Start the monitor
 **./sys.sh**
