@@ -1,6 +1,6 @@
 # 🖥️ System Monitor
 
-![System Monitor](./assets/example1.png) 
+![System Monitor](./assets/example1.png =200x200 
 
 Powerful and elegant real-time monitoring of the Linux system with a beautiful command line interface. Get complete information about the status of your system in one place
 ---
