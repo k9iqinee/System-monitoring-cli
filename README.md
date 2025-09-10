@@ -32,7 +32,7 @@ Powerful and elegant real-time monitoring of the Linux system with a beautiful c
 ### Start the monitor
 **./sys.sh**
 
-![Features Demo](./assets/.installation) 
+![Features Demo](./assets/.gif1.gif) 
 
 
 
@@ -89,11 +89,11 @@ Powerful and elegant real-time monitoring of the Linux system with a beautiful c
 
 
 ## ✅ Full supported
-- **Debian** based ![Distro](./assets/example2.png) 
-- **RHEL** based ![Distro](./assets/example3.png) 
-- **Arch** based ![Distro](./assets/example4.png) 
-- **Opensuse** based![Distro](./assets/example5.png) 
-- **Gentoo** ![Distro](./assets/example6.png) 
+- **Debian** based  
+- **RHEL** based 
+- **Arch** based 
+- **Opensuse** based
+- **Gentoo**
 
 
 
